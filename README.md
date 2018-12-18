@@ -7,7 +7,7 @@ The project will develop a component called SocialCard that can be used as a com
 ![a](https://raw.githubusercontent.com/amitwats/socialcard/master/SocialCardMock.PNG)
 
 The behaviour of the subparts of the component are as below
-!(https://raw.githubusercontent.com/amitwats/socialcard/master/SocialCardLayout.png)
+![a](https://raw.githubusercontent.com/amitwats/socialcard/master/SocialCardLayout.png)
 
 
 ## Available Scripts
