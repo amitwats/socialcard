@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 The project will develop a component called SocialCard that can be used as a component in applications like Twitter and the likes.
 
-![Sample social card](http://url/to/img.png)
+![Sample social card](./socialcard/SocialCardMock.PNG)
 
 
 ## Available Scripts
