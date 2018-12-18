@@ -1,0 +1,8 @@
+.CardHeader {
+    text-align: center;
+    height: 80px;
+    width: 100%;
+    background: brown;
+    border: 5px;
+    border-color: black;
+  }
