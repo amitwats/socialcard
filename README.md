@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##Brief Description
+The project will develop a component called SocialCard that can be used as a component in applications like Twitter and the likes.
+
 ## Available Scripts
 
 In the project directory, you can run:
